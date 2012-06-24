@@ -1,0 +1,6768 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 154 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 260 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 723.7736
+ 84.93291
+ 735.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 723.7736
+ 532.5827
+ 735.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 705.7736
+ 111.5929
+ 717.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 705.7736
+ 532.5827
+ 717.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 687.7736
+ 121.5929
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 527.0227
+ 687.7736
+ 532.5827
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 522.0236
+ 0 ]
+ /Rect [ 62.69291
+ 669.7736
+ 108.2529
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 522.0236
+ 0 ]
+ /Rect [ 527.0227
+ 669.7736
+ 532.5827
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Rect [ 82.69291
+ 651.7736
+ 111.5929
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Rect [ 527.0227
+ 651.7736
+ 532.5827
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 82.69291
+ 633.7736
+ 121.5929
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 527.0227
+ 633.7736
+ 532.5827
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 315.0236
+ 0 ]
+ /Rect [ 62.69291
+ 615.7736
+ 167.7129
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 315.0236
+ 0 ]
+ /Rect [ 527.0227
+ 615.7736
+ 532.5827
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 282.0236
+ 0 ]
+ /Rect [ 82.69291
+ 597.7736
+ 111.5929
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 282.0236
+ 0 ]
+ /Rect [ 527.0227
+ 597.7736
+ 532.5827
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Rect [ 82.69291
+ 579.7736
+ 121.5929
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Rect [ 527.0227
+ 579.7736
+ 532.5827
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 561.7736
+ 164.3729
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 561.7736
+ 532.5827
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 543.7736
+ 111.5929
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 543.7736
+ 532.5827
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 525.7736
+ 121.5929
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 527.0227
+ 525.7736
+ 532.5827
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 570.0236
+ 0 ]
+ /Rect [ 62.69291
+ 507.7736
+ 144.9329
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 570.0236
+ 0 ]
+ /Rect [ 527.0227
+ 507.7736
+ 532.5827
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Rect [ 82.69291
+ 489.7736
+ 111.5929
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+32 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Rect [ 527.0227
+ 489.7736
+ 532.5827
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Rect [ 82.69291
+ 471.7736
+ 121.5929
+ 483.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class LinkAnnotation 
+34 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Rect [ 527.0227
+ 471.7736
+ 532.5827
+ 483.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /Rect [ 62.69291
+ 453.7736
+ 138.2629
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class LinkAnnotation 
+36 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /Rect [ 527.0227
+ 453.7736
+ 532.5827
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Rect [ 82.69291
+ 435.7736
+ 111.5929
+ 447.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class LinkAnnotation 
+38 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Rect [ 527.0227
+ 435.7736
+ 532.5827
+ 447.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class LinkAnnotation 
+39 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 82.69291
+ 417.7736
+ 121.5929
+ 429.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 527.0227
+ 417.7736
+ 532.5827
+ 429.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Rect [ 62.69291
+ 399.7736
+ 113.8129
+ 411.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+42 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Rect [ 527.0227
+ 399.7736
+ 532.5827
+ 411.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /Rect [ 82.69291
+ 381.7736
+ 111.5929
+ 393.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class LinkAnnotation 
+44 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /Rect [ 527.0227
+ 381.7736
+ 532.5827
+ 393.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class LinkAnnotation 
+45 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 123.0236
+ 0 ]
+ /Rect [ 82.69291
+ 363.7736
+ 121.5929
+ 375.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class LinkAnnotation 
+46 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 123.0236
+ 0 ]
+ /Rect [ 527.0227
+ 363.7736
+ 532.5827
+ 375.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Rect [ 62.69291
+ 345.7736
+ 91.58291
+ 357.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Rect [ 527.0227
+ 345.7736
+ 532.5827
+ 357.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER45': class LinkAnnotation 
+49 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Rect [ 82.69291
+ 327.7736
+ 111.5929
+ 339.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER46': class LinkAnnotation 
+50 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Rect [ 527.0227
+ 327.7736
+ 532.5827
+ 339.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER47': class LinkAnnotation 
+51 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Rect [ 82.69291
+ 309.7736
+ 121.5929
+ 321.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class LinkAnnotation 
+52 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Rect [ 527.0227
+ 309.7736
+ 532.5827
+ 321.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER49': class LinkAnnotation 
+53 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 540.0236
+ 0 ]
+ /Rect [ 62.69291
+ 291.7736
+ 117.7029
+ 303.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER50': class LinkAnnotation 
+54 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 540.0236
+ 0 ]
+ /Rect [ 527.0227
+ 291.7736
+ 532.5827
+ 303.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER51': class LinkAnnotation 
+55 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 507.0236
+ 0 ]
+ /Rect [ 82.69291
+ 273.7736
+ 111.5929
+ 285.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER52': class LinkAnnotation 
+56 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 507.0236
+ 0 ]
+ /Rect [ 527.0227
+ 273.7736
+ 532.5827
+ 285.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER53': class LinkAnnotation 
+57 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /Rect [ 82.69291
+ 255.7736
+ 121.5929
+ 267.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER54': class LinkAnnotation 
+58 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /Rect [ 527.0227
+ 255.7736
+ 532.5827
+ 267.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER55': class LinkAnnotation 
+59 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Rect [ 62.69291
+ 237.7736
+ 133.2729
+ 249.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER56': class LinkAnnotation 
+60 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Rect [ 527.0227
+ 237.7736
+ 532.5827
+ 249.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER57': class LinkAnnotation 
+61 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 312.0236
+ 0 ]
+ /Rect [ 82.69291
+ 219.7736
+ 111.5929
+ 231.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER58': class LinkAnnotation 
+62 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 312.0236
+ 0 ]
+ /Rect [ 527.0227
+ 219.7736
+ 532.5827
+ 231.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER59': class LinkAnnotation 
+63 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 264.0236
+ 0 ]
+ /Rect [ 82.69291
+ 201.7736
+ 121.5929
+ 213.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER60': class LinkAnnotation 
+64 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 264.0236
+ 0 ]
+ /Rect [ 527.0227
+ 201.7736
+ 532.5827
+ 213.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER61': class LinkAnnotation 
+65 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 183.7736
+ 225.5029
+ 195.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER62': class LinkAnnotation 
+66 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 183.7736
+ 532.5827
+ 195.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER63': class LinkAnnotation 
+67 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 165.7736
+ 111.5929
+ 177.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER64': class LinkAnnotation 
+68 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 165.7736
+ 532.5827
+ 177.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER65': class LinkAnnotation 
+69 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 147.7736
+ 121.5929
+ 159.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER66': class LinkAnnotation 
+70 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 527.0227
+ 147.7736
+ 532.5827
+ 159.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER67': class LinkAnnotation 
+71 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /Rect [ 62.69291
+ 129.7736
+ 104.3729
+ 141.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER68': class LinkAnnotation 
+72 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /Rect [ 527.0227
+ 129.7736
+ 532.5827
+ 141.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER69': class LinkAnnotation 
+73 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Rect [ 82.69291
+ 111.7736
+ 111.5929
+ 123.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER70': class LinkAnnotation 
+74 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Rect [ 527.0227
+ 111.7736
+ 532.5827
+ 123.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER71': class LinkAnnotation 
+75 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Rect [ 82.69291
+ 93.77362
+ 121.5929
+ 105.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER72': class LinkAnnotation 
+76 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Rect [ 527.0227
+ 93.77362
+ 532.5827
+ 105.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+77 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R
+ 47 0 R
+ 48 0 R
+ 49 0 R
+ 50 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 58 0 R
+ 59 0 R
+ 60 0 R
+ 61 0 R
+ 62 0 R
+ 63 0 R
+ 64 0 R
+ 65 0 R
+ 66 0 R
+ 67 0 R
+ 68 0 R
+ 69 0 R
+ 70 0 R
+ 71 0 R
+ 72 0 R
+ 73 0 R
+ 74 0 R
+ 75 0 R
+ 76 0 R ]
+ /Contents 261 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER73': class LinkAnnotation 
+78 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /Rect [ 62.69291
+ 750.7736
+ 151.0429
+ 762.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER74': class LinkAnnotation 
+79 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /Rect [ 527.0227
+ 750.7736
+ 532.5827
+ 762.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER75': class LinkAnnotation 
+80 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Rect [ 82.69291
+ 732.7736
+ 111.5929
+ 744.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER76': class LinkAnnotation 
+81 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Rect [ 527.0227
+ 732.7736
+ 532.5827
+ 744.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER77': class LinkAnnotation 
+82 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 82.69291
+ 714.7736
+ 121.5929
+ 726.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER78': class LinkAnnotation 
+83 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Rect [ 527.0227
+ 714.7736
+ 532.5827
+ 726.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER79': class LinkAnnotation 
+84 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Rect [ 62.69291
+ 696.7736
+ 122.8529
+ 708.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER80': class LinkAnnotation 
+85 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Rect [ 527.0227
+ 696.7736
+ 532.5827
+ 708.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER81': class LinkAnnotation 
+86 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 207.0236
+ 0 ]
+ /Rect [ 82.69291
+ 678.7736
+ 111.5929
+ 690.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER82': class LinkAnnotation 
+87 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 207.0236
+ 0 ]
+ /Rect [ 527.0227
+ 678.7736
+ 532.5827
+ 690.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER83': class LinkAnnotation 
+88 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 159.0236
+ 0 ]
+ /Rect [ 82.69291
+ 660.7736
+ 121.5929
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER84': class LinkAnnotation 
+89 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 159.0236
+ 0 ]
+ /Rect [ 527.0227
+ 660.7736
+ 532.5827
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER85': class LinkAnnotation 
+90 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Rect [ 62.69291
+ 642.7736
+ 113.2529
+ 654.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER86': class LinkAnnotation 
+91 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Rect [ 527.0227
+ 642.7736
+ 532.5827
+ 654.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER87': class LinkAnnotation 
+92 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Rect [ 82.69291
+ 624.7736
+ 111.5929
+ 636.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER88': class LinkAnnotation 
+93 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Rect [ 527.0227
+ 624.7736
+ 532.5827
+ 636.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER89': class LinkAnnotation 
+94 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 600.0236
+ 0 ]
+ /Rect [ 82.69291
+ 606.7736
+ 121.5929
+ 618.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER90': class LinkAnnotation 
+95 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 600.0236
+ 0 ]
+ /Rect [ 527.0227
+ 606.7736
+ 532.5827
+ 618.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER91': class LinkAnnotation 
+96 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /Rect [ 62.69291
+ 588.7736
+ 136.5829
+ 600.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER92': class LinkAnnotation 
+97 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /Rect [ 527.0227
+ 588.7736
+ 532.5827
+ 600.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER93': class LinkAnnotation 
+98 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 405.0236
+ 0 ]
+ /Rect [ 82.69291
+ 570.7736
+ 111.5929
+ 582.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER94': class LinkAnnotation 
+99 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 405.0236
+ 0 ]
+ /Rect [ 527.0227
+ 570.7736
+ 532.5827
+ 582.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER95': class LinkAnnotation 
+100 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 357.0236
+ 0 ]
+ /Rect [ 82.69291
+ 552.7736
+ 121.5929
+ 564.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER96': class LinkAnnotation 
+101 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 357.0236
+ 0 ]
+ /Rect [ 527.0227
+ 552.7736
+ 532.5827
+ 564.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER97': class LinkAnnotation 
+102 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 219.0236
+ 0 ]
+ /Rect [ 62.69291
+ 534.7736
+ 145.5029
+ 546.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER98': class LinkAnnotation 
+103 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 219.0236
+ 0 ]
+ /Rect [ 527.0227
+ 534.7736
+ 532.5827
+ 546.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER99': class LinkAnnotation 
+104 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Rect [ 82.69291
+ 516.7736
+ 111.5929
+ 528.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER100': class LinkAnnotation 
+105 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Rect [ 527.0227
+ 516.7736
+ 532.5827
+ 528.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER101': class LinkAnnotation 
+106 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 138.0236
+ 0 ]
+ /Rect [ 82.69291
+ 498.7736
+ 121.5929
+ 510.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER102': class LinkAnnotation 
+107 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 138.0236
+ 0 ]
+ /Rect [ 527.0227
+ 498.7736
+ 532.5827
+ 510.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER103': class LinkAnnotation 
+108 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Rect [ 62.69291
+ 480.7736
+ 113.8329
+ 492.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER104': class LinkAnnotation 
+109 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Rect [ 527.0227
+ 480.7736
+ 532.5827
+ 492.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER105': class LinkAnnotation 
+110 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Rect [ 82.69291
+ 462.7736
+ 111.5929
+ 474.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER106': class LinkAnnotation 
+111 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Rect [ 527.0227
+ 462.7736
+ 532.5827
+ 474.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER107': class LinkAnnotation 
+112 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 624.0236
+ 0 ]
+ /Rect [ 82.69291
+ 444.7736
+ 121.5929
+ 456.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER108': class LinkAnnotation 
+113 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 624.0236
+ 0 ]
+ /Rect [ 527.0227
+ 444.7736
+ 532.5827
+ 456.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER109': class LinkAnnotation 
+114 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 62.69291
+ 426.7736
+ 107.7129
+ 438.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER110': class LinkAnnotation 
+115 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 527.0227
+ 426.7736
+ 532.5827
+ 438.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER111': class LinkAnnotation 
+116 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Rect [ 82.69291
+ 408.7736
+ 111.5929
+ 420.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER112': class LinkAnnotation 
+117 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Rect [ 527.0227
+ 408.7736
+ 532.5827
+ 420.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER113': class LinkAnnotation 
+118 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 381.0236
+ 0 ]
+ /Rect [ 82.69291
+ 390.7736
+ 121.5929
+ 402.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER114': class LinkAnnotation 
+119 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 381.0236
+ 0 ]
+ /Rect [ 527.0227
+ 390.7736
+ 532.5827
+ 402.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER115': class LinkAnnotation 
+120 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 267.0236
+ 0 ]
+ /Rect [ 62.69291
+ 372.7736
+ 118.8229
+ 384.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER116': class LinkAnnotation 
+121 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 267.0236
+ 0 ]
+ /Rect [ 527.0227
+ 372.7736
+ 532.5827
+ 384.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER117': class LinkAnnotation 
+122 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Rect [ 82.69291
+ 354.7736
+ 111.5929
+ 366.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER118': class LinkAnnotation 
+123 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Rect [ 527.0227
+ 354.7736
+ 532.5827
+ 366.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER119': class LinkAnnotation 
+124 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Rect [ 82.69291
+ 336.7736
+ 121.5929
+ 348.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER120': class LinkAnnotation 
+125 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Rect [ 527.0227
+ 336.7736
+ 532.5827
+ 348.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER121': class LinkAnnotation 
+126 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 318.7736
+ 258.8629
+ 330.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER122': class LinkAnnotation 
+127 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 521.4627
+ 318.7736
+ 532.5827
+ 330.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER123': class LinkAnnotation 
+128 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 300.7736
+ 111.5929
+ 312.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER124': class LinkAnnotation 
+129 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 521.4627
+ 300.7736
+ 532.5827
+ 312.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER125': class LinkAnnotation 
+130 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 282.7736
+ 121.5929
+ 294.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER126': class LinkAnnotation 
+131 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 521.4627
+ 282.7736
+ 532.5827
+ 294.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER127': class LinkAnnotation 
+132 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 62.69291
+ 264.7736
+ 106.5929
+ 276.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER128': class LinkAnnotation 
+133 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 521.4627
+ 264.7736
+ 532.5827
+ 276.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER129': class LinkAnnotation 
+134 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 82.69291
+ 246.7736
+ 111.5929
+ 258.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER130': class LinkAnnotation 
+135 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 521.4627
+ 246.7736
+ 532.5827
+ 258.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER131': class LinkAnnotation 
+136 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 453.0236
+ 0 ]
+ /Rect [ 82.69291
+ 228.7736
+ 121.5929
+ 240.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER132': class LinkAnnotation 
+137 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 453.0236
+ 0 ]
+ /Rect [ 521.4627
+ 228.7736
+ 532.5827
+ 240.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER133': class LinkAnnotation 
+138 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 339.0236
+ 0 ]
+ /Rect [ 62.69291
+ 210.7736
+ 139.3829
+ 222.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER134': class LinkAnnotation 
+139 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 339.0236
+ 0 ]
+ /Rect [ 521.4627
+ 210.7736
+ 532.5827
+ 222.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER135': class LinkAnnotation 
+140 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Rect [ 82.69291
+ 192.7736
+ 111.5929
+ 204.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER136': class LinkAnnotation 
+141 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Rect [ 521.4627
+ 192.7736
+ 532.5827
+ 204.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER137': class LinkAnnotation 
+142 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 258.0236
+ 0 ]
+ /Rect [ 82.69291
+ 174.7736
+ 121.5929
+ 186.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER138': class LinkAnnotation 
+143 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 258.0236
+ 0 ]
+ /Rect [ 521.4627
+ 174.7736
+ 532.5827
+ 186.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER139': class LinkAnnotation 
+144 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 156.7736
+ 150.4829
+ 168.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER140': class LinkAnnotation 
+145 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 521.4627
+ 156.7736
+ 532.5827
+ 168.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER141': class LinkAnnotation 
+146 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 138.7736
+ 111.5929
+ 150.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER142': class LinkAnnotation 
+147 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 521.4627
+ 138.7736
+ 532.5827
+ 150.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER143': class LinkAnnotation 
+148 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 120.7736
+ 121.5929
+ 132.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER144': class LinkAnnotation 
+149 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 521.4627
+ 120.7736
+ 532.5827
+ 132.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+150 0 obj
+% Page dictionary
+<< /Annots [ 78 0 R
+ 79 0 R
+ 80 0 R
+ 81 0 R
+ 82 0 R
+ 83 0 R
+ 84 0 R
+ 85 0 R
+ 86 0 R
+ 87 0 R
+ 88 0 R
+ 89 0 R
+ 90 0 R
+ 91 0 R
+ 92 0 R
+ 93 0 R
+ 94 0 R
+ 95 0 R
+ 96 0 R
+ 97 0 R
+ 98 0 R
+ 99 0 R
+ 100 0 R
+ 101 0 R
+ 102 0 R
+ 103 0 R
+ 104 0 R
+ 105 0 R
+ 106 0 R
+ 107 0 R
+ 108 0 R
+ 109 0 R
+ 110 0 R
+ 111 0 R
+ 112 0 R
+ 113 0 R
+ 114 0 R
+ 115 0 R
+ 116 0 R
+ 117 0 R
+ 118 0 R
+ 119 0 R
+ 120 0 R
+ 121 0 R
+ 122 0 R
+ 123 0 R
+ 124 0 R
+ 125 0 R
+ 126 0 R
+ 127 0 R
+ 128 0 R
+ 129 0 R
+ 130 0 R
+ 131 0 R
+ 132 0 R
+ 133 0 R
+ 134 0 R
+ 135 0 R
+ 136 0 R
+ 137 0 R
+ 138 0 R
+ 139 0 R
+ 140 0 R
+ 141 0 R
+ 142 0 R
+ 143 0 R
+ 144 0 R
+ 145 0 R
+ 146 0 R
+ 147 0 R
+ 148 0 R
+ 149 0 R ]
+ /Contents 262 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER145': class PDFDictionary 
+151 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt1282015/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 532.5827
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER146': class PDFDictionary 
+152 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0402022/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 405.7736
+ 532.5827
+ 417.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER147': class PDFDictionary 
+153 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0480239/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 198.7736
+ 532.5827
+ 210.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+154 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page4': class PDFPage 
+155 0 obj
+% Page dictionary
+<< /Annots [ 151 0 R
+ 152 0 R
+ 153 0 R ]
+ /Contents 263 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER148': class PDFDictionary 
+156 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0808185/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 532.5827
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER149': class PDFDictionary 
+157 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0145600/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 453.7736
+ 532.5827
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER150': class PDFDictionary 
+158 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt1825735/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 306.7736
+ 532.5827
+ 318.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER151': class PDFDictionary 
+159 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0483607/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 87.77362
+ 532.5827
+ 99.77362 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+160 0 obj
+% Page dictionary
+<< /Annots [ 156 0 R
+ 157 0 R
+ 158 0 R
+ 159 0 R ]
+ /Contents 264 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER152': class PDFDictionary 
+161 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt1343727/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 582.7736
+ 532.5827
+ 594.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER153': class PDFDictionary 
+162 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0238380/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 423.7736
+ 532.5827
+ 435.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER154': class PDFDictionary 
+163 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0060390/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 228.7736
+ 532.5827
+ 240.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+164 0 obj
+% Page dictionary
+<< /Annots [ 161 0 R
+ 162 0 R
+ 163 0 R ]
+ /Contents 265 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER155': class PDFDictionary 
+165 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0449590/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 532.5827
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER156': class PDFDictionary 
+166 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0893402/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 477.7736
+ 532.5827
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER157': class PDFDictionary 
+167 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0113264/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 306.7736
+ 532.5827
+ 318.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER158': class PDFDictionary 
+168 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0074812/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 123.7736
+ 532.5827
+ 135.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+169 0 obj
+% Page dictionary
+<< /Annots [ 165 0 R
+ 166 0 R
+ 167 0 R
+ 168 0 R ]
+ /Contents 266 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER159': class PDFDictionary 
+170 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0017136/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 564.7736
+ 532.5827
+ 576.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER160': class PDFDictionary 
+171 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0181689/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 321.7736
+ 532.5827
+ 333.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER161': class PDFDictionary 
+172 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0405296/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 102.7736
+ 532.5827
+ 114.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+173 0 obj
+% Page dictionary
+<< /Annots [ 170 0 R
+ 171 0 R
+ 172 0 R ]
+ /Contents 267 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER162': class PDFDictionary 
+174 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0114367/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 588.7736
+ 532.5827
+ 600.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER163': class PDFDictionary 
+175 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0066434/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 345.7736
+ 532.5827
+ 357.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER164': class PDFDictionary 
+176 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt1386703/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 168.7736
+ 532.5827
+ 180.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+177 0 obj
+% Page dictionary
+<< /Annots [ 174 0 R
+ 175 0 R
+ 176 0 R ]
+ /Contents 268 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER165': class PDFDictionary 
+178 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0185183/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 532.5827
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER166': class PDFDictionary 
+179 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0118929/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 417.7736
+ 532.5827
+ 429.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER167': class PDFDictionary 
+180 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0070544/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 222.7736
+ 532.5827
+ 234.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page10': class PDFPage 
+181 0 obj
+% Page dictionary
+<< /Annots [ 178 0 R
+ 179 0 R
+ 180 0 R ]
+ /Contents 269 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER168': class PDFDictionary 
+182 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.imdb.com/title/tt0113481/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 532.5827
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page11': class PDFPage 
+183 0 obj
+% Page dictionary
+<< /Annots [ 182 0 R ]
+ /Contents 270 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 259 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R184': class PDFCatalog 
+184 0 obj
+% Document Root
+<< /Outlines 186 0 R
+ /PageLabels 271 0 R
+ /PageMode /UseNone
+ /Pages 259 0 R
+ /Type /Catalog >>
+endobj
+% 'R185': class PDFInfo 
+185 0 obj
+<< /Author ()
+ /CreationDate (D:20120624200517-10'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Top Dystopian Films) >>
+endobj
+% 'R186': class PDFOutlines 
+186 0 obj
+<< /Count 96
+ /First 187 0 R
+ /Last 256 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+187 0 obj
+<< /Count 2
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 188 0 R
+ /Last 189 0 R
+ /Next 190 0 R
+ /Parent 186 0 R
+ /Title (2081) >>
+endobj
+% 'Outline.73.0': class OutlineEntryObject 
+188 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 189 0 R
+ /Parent 187 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.73.1': class OutlineEntryObject 
+189 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 187 0 R
+ /Prev 188 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+190 0 obj
+<< /Count 2
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 522.0236
+ 0 ]
+ /First 191 0 R
+ /Last 192 0 R
+ /Next 193 0 R
+ /Parent 186 0 R
+ /Prev 187 0 R
+ /Title (\306on Flux) >>
+endobj
+% 'Outline.74.0': class OutlineEntryObject 
+191 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Next 192 0 R
+ /Parent 190 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.74.1': class OutlineEntryObject 
+192 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Parent 190 0 R
+ /Prev 191 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+193 0 obj
+<< /Count 2
+ /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 315.0236
+ 0 ]
+ /First 194 0 R
+ /Last 195 0 R
+ /Next 196 0 R
+ /Parent 186 0 R
+ /Prev 190 0 R
+ /Title (Atlas Shrugged: Part I) >>
+endobj
+% 'Outline.75.0': class OutlineEntryObject 
+194 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 282.0236
+ 0 ]
+ /Next 195 0 R
+ /Parent 193 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.75.1': class OutlineEntryObject 
+195 0 obj
+<< /Dest [ 155 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Parent 193 0 R
+ /Prev 194 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+196 0 obj
+<< /Count 2
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 197 0 R
+ /Last 198 0 R
+ /Next 199 0 R
+ /Parent 186 0 R
+ /Prev 193 0 R
+ /Title (The Bothersome Man) >>
+endobj
+% 'Outline.76.0': class OutlineEntryObject 
+197 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 198 0 R
+ /Parent 196 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.76.1': class OutlineEntryObject 
+198 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 196 0 R
+ /Prev 197 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+199 0 obj
+<< /Count 2
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 570.0236
+ 0 ]
+ /First 200 0 R
+ /Last 201 0 R
+ /Next 202 0 R
+ /Parent 186 0 R
+ /Prev 196 0 R
+ /Title (Brave New World) >>
+endobj
+% 'Outline.77.0': class OutlineEntryObject 
+200 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Next 201 0 R
+ /Parent 199 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.77.1': class OutlineEntryObject 
+201 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Parent 199 0 R
+ /Prev 200 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+202 0 obj
+<< /Count 2
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /First 203 0 R
+ /Last 204 0 R
+ /Next 205 0 R
+ /Parent 186 0 R
+ /Prev 199 0 R
+ /Title (Dark Metropolis) >>
+endobj
+% 'Outline.78.0': class OutlineEntryObject 
+203 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Next 204 0 R
+ /Parent 202 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.78.1': class OutlineEntryObject 
+204 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Parent 202 0 R
+ /Prev 203 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+205 0 obj
+<< /Count 2
+ /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /First 206 0 R
+ /Last 207 0 R
+ /Next 208 0 R
+ /Parent 186 0 R
+ /Prev 202 0 R
+ /Title (Doomsday) >>
+endobj
+% 'Outline.79.0': class OutlineEntryObject 
+206 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /Next 207 0 R
+ /Parent 205 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.79.1': class OutlineEntryObject 
+207 0 obj
+<< /Dest [ 160 0 R
+ /XYZ
+ 62.69291
+ 123.0236
+ 0 ]
+ /Parent 205 0 R
+ /Prev 206 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+208 0 obj
+<< /Count 2
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /First 209 0 R
+ /Last 210 0 R
+ /Next 211 0 R
+ /Parent 186 0 R
+ /Prev 205 0 R
+ /Title (Dredd) >>
+endobj
+% 'Outline.80.0': class OutlineEntryObject 
+209 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Next 210 0 R
+ /Parent 208 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.80.1': class OutlineEntryObject 
+210 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Parent 208 0 R
+ /Prev 209 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+211 0 obj
+<< /Count 2
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 540.0236
+ 0 ]
+ /First 212 0 R
+ /Last 213 0 R
+ /Next 214 0 R
+ /Parent 186 0 R
+ /Prev 208 0 R
+ /Title (Equilibrium) >>
+endobj
+% 'Outline.81.0': class OutlineEntryObject 
+212 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 507.0236
+ 0 ]
+ /Next 213 0 R
+ /Parent 211 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.81.1': class OutlineEntryObject 
+213 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /Parent 211 0 R
+ /Prev 212 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+214 0 obj
+<< /Count 2
+ /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /First 215 0 R
+ /Last 216 0 R
+ /Next 217 0 R
+ /Parent 186 0 R
+ /Prev 211 0 R
+ /Title (Fahrenheit 451) >>
+endobj
+% 'Outline.82.0': class OutlineEntryObject 
+215 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 312.0236
+ 0 ]
+ /Next 216 0 R
+ /Parent 214 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.82.1': class OutlineEntryObject 
+216 0 obj
+<< /Dest [ 164 0 R
+ /XYZ
+ 62.69291
+ 264.0236
+ 0 ]
+ /Parent 214 0 R
+ /Prev 215 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+217 0 obj
+<< /Count 2
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 218 0 R
+ /Last 219 0 R
+ /Next 220 0 R
+ /Parent 186 0 R
+ /Prev 214 0 R
+ /Title (FAQ: Frequently Asked Questions) >>
+endobj
+% 'Outline.83.0': class OutlineEntryObject 
+218 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 219 0 R
+ /Parent 217 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.83.1': class OutlineEntryObject 
+219 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 217 0 R
+ /Prev 218 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+220 0 obj
+<< /Count 2
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /First 221 0 R
+ /Last 222 0 R
+ /Next 223 0 R
+ /Parent 186 0 R
+ /Prev 217 0 R
+ /Title (Franklyn) >>
+endobj
+% 'Outline.84.0': class OutlineEntryObject 
+221 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Next 222 0 R
+ /Parent 220 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.84.1': class OutlineEntryObject 
+222 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Parent 220 0 R
+ /Prev 221 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+223 0 obj
+<< /Count 2
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 423.0236
+ 0 ]
+ /First 224 0 R
+ /Last 225 0 R
+ /Next 226 0 R
+ /Parent 186 0 R
+ /Prev 220 0 R
+ /Title (Harrison Bergeron) >>
+endobj
+% 'Outline.85.0': class OutlineEntryObject 
+224 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Next 225 0 R
+ /Parent 223 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.85.1': class OutlineEntryObject 
+225 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Parent 223 0 R
+ /Prev 224 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.13': class OutlineEntryObject 
+226 0 obj
+<< /Count 2
+ /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /First 227 0 R
+ /Last 228 0 R
+ /Next 229 0 R
+ /Parent 186 0 R
+ /Prev 223 0 R
+ /Title (Logan's Run) >>
+endobj
+% 'Outline.86.0': class OutlineEntryObject 
+227 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 207.0236
+ 0 ]
+ /Next 228 0 R
+ /Parent 226 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.86.1': class OutlineEntryObject 
+228 0 obj
+<< /Dest [ 169 0 R
+ /XYZ
+ 62.69291
+ 159.0236
+ 0 ]
+ /Parent 226 0 R
+ /Prev 227 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.14': class OutlineEntryObject 
+229 0 obj
+<< /Count 2
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /First 230 0 R
+ /Last 231 0 R
+ /Next 232 0 R
+ /Parent 186 0 R
+ /Prev 226 0 R
+ /Title (Metropolis) >>
+endobj
+% 'Outline.87.0': class OutlineEntryObject 
+230 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Next 231 0 R
+ /Parent 229 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.87.1': class OutlineEntryObject 
+231 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 600.0236
+ 0 ]
+ /Parent 229 0 R
+ /Prev 230 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.15': class OutlineEntryObject 
+232 0 obj
+<< /Count 2
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /First 233 0 R
+ /Last 234 0 R
+ /Next 235 0 R
+ /Parent 186 0 R
+ /Prev 229 0 R
+ /Title (Minority Report) >>
+endobj
+% 'Outline.88.0': class OutlineEntryObject 
+233 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 405.0236
+ 0 ]
+ /Next 234 0 R
+ /Parent 232 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.88.1': class OutlineEntryObject 
+234 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 357.0236
+ 0 ]
+ /Parent 232 0 R
+ /Prev 233 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.16': class OutlineEntryObject 
+235 0 obj
+<< /Count 2
+ /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 219.0236
+ 0 ]
+ /First 236 0 R
+ /Last 237 0 R
+ /Next 238 0 R
+ /Parent 186 0 R
+ /Prev 232 0 R
+ /Title (A Scanner Darkly) >>
+endobj
+% 'Outline.89.0': class OutlineEntryObject 
+236 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Next 237 0 R
+ /Parent 235 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.89.1': class OutlineEntryObject 
+237 0 obj
+<< /Dest [ 173 0 R
+ /XYZ
+ 62.69291
+ 138.0236
+ 0 ]
+ /Parent 235 0 R
+ /Prev 236 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.17': class OutlineEntryObject 
+238 0 obj
+<< /Count 2
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /First 239 0 R
+ /Last 240 0 R
+ /Next 241 0 R
+ /Parent 186 0 R
+ /Prev 235 0 R
+ /Title (Screamers) >>
+endobj
+% 'Outline.90.0': class OutlineEntryObject 
+239 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Next 240 0 R
+ /Parent 238 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.90.1': class OutlineEntryObject 
+240 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 624.0236
+ 0 ]
+ /Parent 238 0 R
+ /Prev 239 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.18': class OutlineEntryObject 
+241 0 obj
+<< /Count 2
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /First 242 0 R
+ /Last 243 0 R
+ /Next 244 0 R
+ /Parent 186 0 R
+ /Prev 238 0 R
+ /Title (THX 1138) >>
+endobj
+% 'Outline.91.0': class OutlineEntryObject 
+242 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Next 243 0 R
+ /Parent 241 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.91.1': class OutlineEntryObject 
+243 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 381.0236
+ 0 ]
+ /Parent 241 0 R
+ /Prev 242 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.19': class OutlineEntryObject 
+244 0 obj
+<< /Count 2
+ /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 267.0236
+ 0 ]
+ /First 245 0 R
+ /Last 246 0 R
+ /Next 247 0 R
+ /Parent 186 0 R
+ /Prev 241 0 R
+ /Title (Total Recall) >>
+endobj
+% 'Outline.92.0': class OutlineEntryObject 
+245 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Next 246 0 R
+ /Parent 244 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.92.1': class OutlineEntryObject 
+246 0 obj
+<< /Dest [ 177 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Parent 244 0 R
+ /Prev 245 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.20': class OutlineEntryObject 
+247 0 obj
+<< /Count 2
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 248 0 R
+ /Last 249 0 R
+ /Next 250 0 R
+ /Parent 186 0 R
+ /Prev 244 0 R
+ /Title (Battlefield Earth: A Saga of the Year 3000) >>
+endobj
+% 'Outline.93.0': class OutlineEntryObject 
+248 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 249 0 R
+ /Parent 247 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.93.1': class OutlineEntryObject 
+249 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 247 0 R
+ /Prev 248 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.21': class OutlineEntryObject 
+250 0 obj
+<< /Count 2
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /First 251 0 R
+ /Last 252 0 R
+ /Next 253 0 R
+ /Parent 186 0 R
+ /Prev 247 0 R
+ /Title (Dark City) >>
+endobj
+% 'Outline.94.0': class OutlineEntryObject 
+251 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Next 252 0 R
+ /Parent 250 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.94.1': class OutlineEntryObject 
+252 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 453.0236
+ 0 ]
+ /Parent 250 0 R
+ /Prev 251 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.22': class OutlineEntryObject 
+253 0 obj
+<< /Count 2
+ /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 339.0236
+ 0 ]
+ /First 254 0 R
+ /Last 255 0 R
+ /Next 256 0 R
+ /Parent 186 0 R
+ /Prev 250 0 R
+ /Title (Fantastic Planet) >>
+endobj
+% 'Outline.95.0': class OutlineEntryObject 
+254 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Next 255 0 R
+ /Parent 253 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.95.1': class OutlineEntryObject 
+255 0 obj
+<< /Dest [ 181 0 R
+ /XYZ
+ 62.69291
+ 258.0236
+ 0 ]
+ /Parent 253 0 R
+ /Prev 254 0 R
+ /Title (Storyline) >>
+endobj
+% 'Outline.23': class OutlineEntryObject 
+256 0 obj
+<< /Count 2
+ /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 257 0 R
+ /Last 258 0 R
+ /Parent 186 0 R
+ /Prev 253 0 R
+ /Title (Johnny Mnemonic) >>
+endobj
+% 'Outline.96.0': class OutlineEntryObject 
+257 0 obj
+<< /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 258 0 R
+ /Parent 256 0 R
+ /Title (Rating) >>
+endobj
+% 'Outline.96.1': class OutlineEntryObject 
+258 0 obj
+<< /Dest [ 183 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 256 0 R
+ /Prev 257 0 R
+ /Title (Storyline) >>
+endobj
+% 'R259': class PDFPages 
+259 0 obj
+% page tree
+<< /Count 11
+ /Kids [ 4 0 R
+ 77 0 R
+ 150 0 R
+ 155 0 R
+ 160 0 R
+ 164 0 R
+ 169 0 R
+ 173 0 R
+ 177 0 R
+ 181 0 R
+ 183 0 R ]
+ /Type /Pages >>
+endobj
+% 'R260': class PDFStream 
+260 0 obj
+% page stream
+<< /Length 191 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 136.5949 0 Td (Top Dystopian Films) Tj T* -136.5949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R261': class PDFStream 
+261 0 obj
+% page stream
+<< /Length 8933 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 633 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2081) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 633 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 615 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 615 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 597 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 597 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 579 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (\306on Flux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 579 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 561 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 561 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 543 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 543 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 525 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Atlas Shrugged: Part I) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 525 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 507 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 507 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 489 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 489 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 471 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (The Bothersome Man) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 471 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 453 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 453 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 435 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 435 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 417 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Brave New World) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 417 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 399 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 399 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 381 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 381 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 363 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Dark Metropolis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 363 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 345 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 327 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Doomsday) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 291 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 291 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Dredd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Equilibrium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Fahrenheit 451) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (FAQ: Frequently Asked Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Franklyn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R262': class PDFStream 
+262 0 obj
+% page stream
+<< /Length 8853 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 117.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 633 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Harrison Bergeron) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 633 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 615 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 615 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 597 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 597 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 579 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Logan's Run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 579 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 561 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 561 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 543 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 543 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 525 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Metropolis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 525 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 507 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 507 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 489 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 489 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 471 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Minority Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 471 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 453 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 453 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 435 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 435 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 417 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (A Scanner Darkly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 417 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 399 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 399 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 381 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 381 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 363 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Screamers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 363 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 345 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 327 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (THX 1138) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 291 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 291 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Total Recall) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Battlefield Earth: A Saga of the Year 3000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Dark City) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Fantastic Planet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Johnny Mnemonic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R263': class PDFStream 
+263 0 obj
+% page stream
+<< /Length 4989 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2081) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1,006 IMDb users have given an average vote of 7.0/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt1282015/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .998651 Tw (A short film adaptation of Kurt Vonnegut's Harrison Bergeron, 2081 depicts a dystopian future in which,) Tj T* 0 Tw 1.864651 Tw (thanks to the 212th Amendment to the Constitution and the unceasing vigilance of the United States) Tj T* 0 Tw 1.268443 Tw (Handicapper General, everyone is "finally equal...." The strong wear weights, the beautiful wear masks) Tj T* 0 Tw .959986 Tw (and the intelligent wear earpieces that fire off loud noises to keep them from taking unfair advantage of) Tj T* 0 Tw .56683 Tw (their brains. It is a poetic tale of triumph and tragedy about a broken family, a brutal government, and an) Tj T* 0 Tw 1.513828 Tw (act of defiance that changes everything. Featuring an original score performed by the world-renowned) Tj T* 0 Tw .299269 Tw (Kronos Quartet \(Requiem for a Dream\) and narration by Academy Award Nominee Patricia Clarkson \(Far) Tj T* 0 Tw 1.410814 Tw (From Heaven, Goodnight and Good Luck\), 2081 stars James Cosmo \(Braveheart, Trainspotting\), Julie) Tj T* 0 Tw (Hagerty \(Airplane!, What About Bob?\) and Armie Hammer \(The Social Network\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\306on Flux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (61,901 IMDb users have given an average vote of 5.4/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0402022/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .772619 Tw (400 years in the future, set in the year 2415, Aeon Flux is a mysterious assassin. Four centuries after a) Tj T* 0 Tw .363735 Tw (virus nearly annihilated the human race, leaving only five million survivors in a utopian city called Bregna.) Tj T* 0 Tw 1.196235 Tw (Aeon is struggling to destroy the Goodchild regime led by its namesake, Trevor Goodchild, the ruler of) Tj T* 0 Tw .244198 Tw (Bregna and a descendant of the man who found a cure for the deadly virus. As instructed by the Handler,) Tj T* 0 Tw 3.54784 Tw (Aeon is assigned to assassinate Goodchild, but there are deeper secrets to be discovered, and) Tj T* 0 Tw (conspiracies to be foiled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Atlas Shrugged: Part I) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5,427 IMDb users have given an average vote of 5.5/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0480239/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+BT 1 0 0 1 0 86 Tm .84811 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was great to be alive, once, but the world was perishing. Factories were shutting down, transportation) Tj T* 0 Tw 2.758735 Tw (was grinding to a halt, granaries were empty--and key people who had once kept it running were) Tj T* 0 Tw 1.216098 Tw (disappearing all over the country. As the lights winked out and the cities went cold, nothing was left to) Tj T* 0 Tw .917356 Tw (anyone but misery. No one knew how to stop it, no one understood why it was happening - except one) Tj T* 0 Tw .254983 Tw (woman, the operating executive of a once mighty transcontinental railroad, who suspects the answer may) Tj T* 0 Tw 1.039488 Tw (rest with a remarkable invention and the man who created it - a man who once said he would stop the) Tj T* 0 Tw .175868 Tw (motor of the world. Everything now depends on finding him and discovering the answer to the question on) Tj T* 0 Tw (the lips of everyone as they whisper it in fear: Who ) Tj /F3 10 Tf (is ) Tj /F1 10 Tf (John Galt?) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R264': class PDFStream 
+264 0 obj
+% page stream
+<< /Length 4307 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The Bothersome Man) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5,978 IMDb users have given an average vote of 7.4/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0808185/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .231098 Tw (Forty-year-old Andreas arrives in a strange city with no memory of how he got there. He is presented with) Tj T* 0 Tw 1.319986 Tw (a job, an apartment - even a wife. But before long, Andreas notices that something is wrong. Andreas) Tj T* 0 Tw .307209 Tw (makes an attempt to escape the city, but he discovers there's no way out. Andreas meets Hugo, who has) Tj T* 0 Tw 1.113988 Tw (found a crack in a wall in his cellar. Beautiful music streams out from the crack. Maybe it leads to "the) Tj T* 0 Tw (other side"? A new plan for escape is hatched.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Brave New World) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1,004 IMDb users have given an average vote of 5.2/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0145600/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In a futuristic totalitarian society, people have no control of their lives and/or destiny.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dark Metropolis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (185 IMDb users have given an average vote of 2.0/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt1825735/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.829318 Tw (Mankind has lost a 300-year war against a genetically enhanced race that man created, abused and) Tj T* 0 Tw 1.034987 Tw (finally tortured. Now the descendants of that race - known as the 'Ghen' - control the planet Earth from) Tj T* 0 Tw .04936 Tw (advanced underground cities. An entire new universe has risen inside the remnants of our world known as) Tj T* 0 Tw .077765 Tw (Hollow Earth. Humans now work the surface in factories as slaves in the New World Order with pockets of) Tj T* 0 Tw .01686 Tw (resistance carrying on the fight. As rising Ghen Politician Crecilius Pryme takes power he urges his people) Tj T* 0 Tw 1.68284 Tw (to annihilate the remaining human population unleashing a shocking secret that will change the world) Tj T* 0 Tw (forever.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Doomsday) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (43,889 IMDb users have given an average vote of 6.0/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0483607/) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R265': class PDFStream 
+265 0 obj
+% page stream
+<< /Length 4732 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .61284 Tw (A lethal virus spreads throughout the British isles,infecting millions and killing hundreds of thousands. To) Tj T* 0 Tw .15186 Tw (contain the threat, acting authorities brutally quarantine the country as it succumbs to fear and chaos. The) Tj T* 0 Tw 1.277318 Tw (quarantine is successful. Three decades later, the Reaper virus violently resurfaces in a major city. An) Tj T* 0 Tw .745366 Tw (elite group of specialists, including Eden Sinclair, is urgently dispatched into the still-quarantined country) Tj T* 0 Tw .066488 Tw (to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through) Tj T* 0 Tw (a landscape that has become a waking nightmare.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dredd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt1343727/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .508409 Tw (In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop) Tj T* 0 Tw (teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Equilibrium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (139,963 IMDb users have given an average vote of 7.6/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0238380/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .212339 Tw (In a futuristic world, a strict regime has eliminated war by suppressing emotions: books, art and music are) Tj T* 0 Tw .864692 Tw (strictly forbidden and feeling is a crime punishable by death. Cleric John Preston \(Bale\) is a top ranking) Tj T* 0 Tw 2.535318 Tw (government agent responsible for destroying those who resist the rules. Whe he misses a dose of) Tj T* 0 Tw 1.089984 Tw (Prozium, a mind-altering drug that hinders emotion, Preston, who has been trained to enforce the strict) Tj T* 0 Tw (laws of the new regime, suddenly becomes the only person capable of overthrowing it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Fahrenheit 451) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (18,411 IMDb users have given an average vote of 7.2/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0060390/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.415777 Tw (Based on the 1951 Ray Bradbury novel of the same name. Guy Montag is a firefighter who lives in a) Tj T* 0 Tw 7.799147 Tw (lonely, isolated society where books have been outlawed by a government fearing an) Tj T* 0 Tw .371751 Tw (independent-thinking public. It is the duty of firefighters to burn any books on sight or said collections that) Tj T* 0 Tw 2.817126 Tw (have been reported by informants. People in this society including Montag's wife are drugged into) Tj T* 0 Tw 1.289983 Tw (compliancy and get their information from wall-length television screens. After Montag falls in love with) Tj T* 0 Tw .384651 Tw (book-hoarding Clarisse, he begins to read confiscated books. It is through this relationship that he begins) Tj T* 0 Tw 2.299269 Tw (to question the government's motives behind book-burning. Montag is soon found out, and he must) Tj T* 0 Tw .830514 Tw (decide whether to return to his job or run away knowing full well the consequences that he could face if) Tj T* 0 Tw (captured.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R266': class PDFStream 
+266 0 obj
+% page stream
+<< /Length 4502 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (FAQ: Frequently Asked Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (177 IMDb users have given an average vote of 4.1/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0449590/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.093828 Tw (France. A near and probable future. The Sisterhood of Metacontrol governs Europe. Angeline, an) Tj T* 0 Tw .794651 Tw (exemplary and irreproachable citizen has just joined the order... But her relationship with a special man,) Tj T* 0 Tw (Nono, will make her question profoundly the principles of the Doctrine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Franklyn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8,884 IMDb users have given an average vote of 6.1/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0893402/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .244104 Tw (The film is a split narrative set simultaneously in contemporary London and in a future metropolis ruled by) Tj T* 0 Tw .649431 Tw (religious fervor. It's the story of four lost souls, divided by two parallel worlds, on course for an explosive) Tj T* 0 Tw (collision when a single bullet will decide all their fates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Harrison Bergeron) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1,471 IMDb users have given an average vote of 7.2/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0113264/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .184488 Tw ("All men are not created equal. It is the purpose of the Government to make them so." This is the premise) Tj T* 0 Tw .223318 Tw (of the Showtime film adaption of Kurt Vonnegut's futuristic short story Harrison Bergeron. The film centers) Tj T* 0 Tw 3.152339 Tw (around a young man \(Harrison\) who is smarter than his peers, and is not affected by the usual) Tj T* 0 Tw ("Handicapping" which is used to train all Americans so everyone is of equal intelligence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Logan's Run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (21,485 IMDb users have given an average vote of 6.8/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0074812/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .343322 Tw (It's 2274 and on the surface, it all seems to be an idyllic society. Living in a city within an enclosed dome,) Tj T* 0 Tw .789488 Tw (there is little or no work for humans to perform and inhabitants are free to pursue all of the pleasures of) Tj T* 0 Tw 2.645777 Tw (life. There is one catch however: your life is limited and when you reach 30, it is terminated in a) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R267': class PDFStream 
+267 0 obj
+% page stream
+<< /Length 4912 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .646651 Tw (quasi-religious ceremony known as Carousel. Some, known as runners, do try to escape their fate when) Tj T* 0 Tw .301807 Tw (the time comes and it's the job of a Sandman to track them down and kill them. Logan is such a man and) Tj T* 0 Tw .469986 Tw (with several years before his own termination date, thinks nothing of the job he does. Soon after meeting) Tj T* 0 Tw .744985 Tw (a young woman, Jessica-6, he is ordered to become a runner himself and infiltrate a community outside) Tj T* 0 Tw .89528 Tw (the dome known as Sanctuary and to destroy it. Pursued by his friend Francis, also a Sandman, Logan) Tj T* 0 Tw (and Jessica find their way to the outside. There they discover a beautiful...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Metropolis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (57,903 IMDb users have given an average vote of 8.4/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0017136/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .168876 Tw (Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live) Tj T* 0 Tw .888935 Tw (a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of) Tj T* 0 Tw .014692 Tw (children, she and the children who quickly disappear. Trying to follow her, he, oblivious to such, is horrified) Tj T* 0 Tw 2.201318 Tw (to find an underground world of workers, apparently who run the machinery which keeps the above) Tj T* 0 Tw .25561 Tw (ground Utopian world functioning. One of the few people above ground who knows about the world below) Tj T* 0 Tw 1.493735 Tw (is Freder's father, Joh Fredersen, who is the founder and master of Metropolis. Freder learns that the) Tj T* 0 Tw .234274 Tw (woman is Maria, who espouses the need to join the "hands" - the workers - to the "head" - those in power) Tj T* 0 Tw .192262 Tw (above - by a mediator or the "heart". Freder wants to help the plight of the workers in the want for a better) Tj T* 0 Tw (life. But when Joh learns of what Maria is espousing and that Freder is joining their cause...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Minority Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (209,711 IMDb users have given an average vote of 7.7/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0181689/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .702339 Tw (In the year 2054 A.D. crime is virtually eliminated from Washington D.C. thanks to an elite law enforcing) Tj T* 0 Tw .811984 Tw (squad "Precrime". They use three gifted humans \(called "Pre-Cogs"\) with special powers to see into the) Tj T* 0 Tw 3.843314 Tw (future and predict crimes beforehand. John Anderton heads Precrime and believes the system's) Tj T* 0 Tw 2.116136 Tw (flawlessness steadfastly. However one day the Pre-Cogs predict that Anderton will commit a murder) Tj T* 0 Tw 1.418876 Tw (himself in the next 36 hours. Worse, Anderton doesn't even know the victim. He decides to get to the) Tj T* 0 Tw 2.117984 Tw (mystery's core by finding out the 'minority report' which means the prediction of the female Pre-Cog) Tj T* 0 Tw (Agatha that "might" tell a different story and prove Anderton innocent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (A Scanner Darkly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (56,497 IMDb users have given an average vote of 7.1/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0405296/) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R268': class PDFStream 
+268 0 obj
+% page stream
+<< /Length 4669 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .631654 Tw (In a totalitarian society in a near future, the undercover detective Bob Arctor is working with a small time) Tj T* 0 Tw .537045 Tw (group of drug users trying to reach the big distributors of a brain-damaging drug called Substance D. His) Tj T* 0 Tw .70936 Tw (assignment is promoted by the recovery center New Path Corporation, and when Bob begins to lose his) Tj T* 0 Tw (own identity and have schizophrenic behavior, he is submitted to tests to check his mental conditions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Screamers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12,126 IMDb users have given an average vote of 6.1/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0114367/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .634104 Tw (\(SIRIUS 6B, Year 2078\) On a distant mining planet ravaged by a decade of war, scientists have created) Tj T* 0 Tw 3.588314 Tw (the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers) Tj T* 0 Tw 2.124104 Tw (designed for one purpose only -- to hunt down and destroy all enemy life forms But man's greatest) Tj T* 0 Tw .567633 Tw (weapon has continued to evolve without any human guidance, and now it has devised a new mission: to) Tj T* 0 Tw .12311 Tw (obliterate all life. Col. Hendricksson \(Peter Weller\) is commander of a handful of Alliance soldiers still alive) Tj T* 0 Tw 1.264985 Tw (on Sirius 6B. Betrayed by his own political leaders and disgusted by the atrocities of this never-ending) Tj T* 0 Tw .238555 Tw (war, Hendricksson decides he must negotiate a separate peace with the New Economic Bloc's decimated) Tj T* 0 Tw .19832 Tw (forces. But to do so, he will have to cross a treacherous wasteland where the deadliest threat comes from) Tj T* 0 Tw (the very weapons he helped to create.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (THX 1138) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (22,605 IMDb users have given an average vote of 6.8/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0066434/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .692765 Tw (George Lucas adapted this, his first film, from a short he made at University. THX 1138, LUH 3417, and) Tj T* 0 Tw 2.09686 Tw (SEN 5241 attempt to escape from a futuristic society located beneath the surface of the Earth. The) Tj T* 0 Tw .959986 Tw (society has outlawed sex, with drugs used to control the people. THX 1138 stops taking the drugs, and) Tj T* 0 Tw .713145 Tw (gets LUH 3417 pregnant. They are both thrown in jail where they meet SEN 5241 and start to plan their) Tj T* 0 Tw (escape.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Total Recall) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt1386703/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.796457 Tw (For a factory worker named Douglas Quaid, even though he's got a beautiful wife who he loves, the) Tj T* 0 Tw 1.161163 Tw (mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy) Tj T* 0 Tw .241163 Tw (might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man) Tj T* 0 Tw (as he finds himself on the run from the police.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R269': class PDFStream 
+269 0 obj
+% page stream
+<< /Length 4313 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Battlefield Earth: A Saga of the Year 3000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (47,537 IMDb users have given an average vote of 2.4/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0185183/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .526488 Tw (In the year 3000, man is no match for the Psychlo's, a greedy, manipulative race of aliens on a quest for) Tj T* 0 Tw 2.083735 Tw (ultimate profit. Led by the seductive and powerful Terl, the Psychlo's are stripping Earth clean of its) Tj T* 0 Tw .732927 Tw (natural resources, using the broken remnants of humanity as slaves. What is left of the human race has) Tj T* 0 Tw .044692 Tw (descended into a near primitive state, believing the invaders to be demons and technology to be evil. After) Tj T* 0 Tw .20881 Tw (humanity has all but given up any hope of freeing themselves from alien oppression, a young man named) Tj T* 0 Tw .045868 Tw (Tyler decides to leave his desolate home high in the Rocky Mountains to discover the truth, whereupon he) Tj T* 0 Tw 1.736303 Tw (is captured and enslaved. It is then that he decides to fight back, leading his fellow man in one final) Tj T* 0 Tw (struggle for freedom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dark City) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (91,910 IMDb users have given an average vote of 7.8/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0118929/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .760988 Tw (John Murdoch awakens alone in a strange hotel to find that he has lost his memory and is wanted for a) Tj T* 0 Tw .569986 Tw (series of brutal and bizarre murders. While trying to piece together his past, he stumbles upon a fiendish) Tj T* 0 Tw .20881 Tw (underworld controlled by a group of beings known as The Strangers who possess the ability to put people) Tj T* 0 Tw .177488 Tw (to sleep and alter the city and its inhabitants. Now Murdoch must find a way to stop them before they take) Tj T* 0 Tw (control of his mind and destroy him.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Fantastic Planet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5,695 IMDb users have given an average vote of 7.6/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0070544/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .438221 Tw (Slaves and masters dominate the narrative of the faraway world of Ygam. Set around the lifespan of Ter,) Tj T* 0 Tw .633516 Tw (a minute human shaped Om slave, and pet, of the giant blue alien Draags. Escaping into the wilderness) Tj T* 0 Tw 1.507485 Tw (and with a devise used for intellectual advancement of the Draags, Ter finds refuge and support from) Tj T* 0 Tw .904724 Tw (fellow Om's and using the learning tool, he finds that knowledge is power and then sets to use the new) Tj T* 0 Tw (found knowledge to revolt against the Draag masters...) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R270': class PDFStream 
+270 0 obj
+% page stream
+<< /Length 1374 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Johnny Mnemonic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (31,303 IMDb users have given an average vote of 5.2/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Storyline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.imdb.com/title/tt0113481/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.677765 Tw (In 2021, the whole world is connected by the gigantic Internet, and almost a half of the population is) Tj T* 0 Tw .494983 Tw (suffering from the Nerve Attenuation Syndrome \(NAS\).Johnny with an inplanted memory chip in his brain) Tj T* 0 Tw .059269 Tw (was ordered to transport the over loaded information from Beijing to Newark. While Pharmakom Industries) Tj T* 0 Tw .829986 Tw (supported by yakuza tries to capture him to get the informaiton back, the Low-tech group led by J-Bone) Tj T* 0 Tw (tries to break the missing code to download the cure of NAS which Johnny carries.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R271': class PDFPageLabels 
+271 0 obj
+% Document Root
+<< /Nums [ 0
+ 272 0 R
+ 1
+ 273 0 R
+ 2
+ 274 0 R
+ 3
+ 275 0 R
+ 4
+ 276 0 R
+ 5
+ 277 0 R
+ 6
+ 278 0 R
+ 7
+ 279 0 R
+ 8
+ 280 0 R
+ 9
+ 281 0 R
+ 10
+ 282 0 R ] >>
+endobj
+% 'R272': class PDFPageLabel 
+272 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R273': class PDFPageLabel 
+273 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R274': class PDFPageLabel 
+274 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R275': class PDFPageLabel 
+275 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R276': class PDFPageLabel 
+276 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R277': class PDFPageLabel 
+277 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R278': class PDFPageLabel 
+278 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R279': class PDFPageLabel 
+279 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R280': class PDFPageLabel 
+280 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R281': class PDFPageLabel 
+281 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R282': class PDFPageLabel 
+282 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+xref
+0 283
+0000000000 65535 f
+0000000113 00000 n
+0000000235 00000 n
+0000000400 00000 n
+0000000573 00000 n
+0000000869 00000 n
+0000001111 00000 n
+0000001353 00000 n
+0000001595 00000 n
+0000001837 00000 n
+0000002079 00000 n
+0000002322 00000 n
+0000002565 00000 n
+0000002808 00000 n
+0000003052 00000 n
+0000003296 00000 n
+0000003540 00000 n
+0000003784 00000 n
+0000004028 00000 n
+0000004272 00000 n
+0000004516 00000 n
+0000004760 00000 n
+0000005004 00000 n
+0000005248 00000 n
+0000005492 00000 n
+0000005736 00000 n
+0000005980 00000 n
+0000006224 00000 n
+0000006468 00000 n
+0000006712 00000 n
+0000006956 00000 n
+0000007200 00000 n
+0000007444 00000 n
+0000007688 00000 n
+0000007932 00000 n
+0000008176 00000 n
+0000008420 00000 n
+0000008664 00000 n
+0000008908 00000 n
+0000009152 00000 n
+0000009396 00000 n
+0000009640 00000 n
+0000009884 00000 n
+0000010128 00000 n
+0000010372 00000 n
+0000010616 00000 n
+0000010860 00000 n
+0000011104 00000 n
+0000011348 00000 n
+0000011592 00000 n
+0000011836 00000 n
+0000012080 00000 n
+0000012324 00000 n
+0000012568 00000 n
+0000012812 00000 n
+0000013056 00000 n
+0000013300 00000 n
+0000013544 00000 n
+0000013788 00000 n
+0000014032 00000 n
+0000014276 00000 n
+0000014520 00000 n
+0000014764 00000 n
+0000015008 00000 n
+0000015252 00000 n
+0000015496 00000 n
+0000015740 00000 n
+0000015984 00000 n
+0000016228 00000 n
+0000016472 00000 n
+0000016716 00000 n
+0000016960 00000 n
+0000017204 00000 n
+0000017448 00000 n
+0000017692 00000 n
+0000017936 00000 n
+0000018180 00000 n
+0000018408 00000 n
+0000019361 00000 n
+0000019605 00000 n
+0000019849 00000 n
+0000020093 00000 n
+0000020337 00000 n
+0000020581 00000 n
+0000020825 00000 n
+0000021069 00000 n
+0000021313 00000 n
+0000021557 00000 n
+0000021801 00000 n
+0000022045 00000 n
+0000022289 00000 n
+0000022533 00000 n
+0000022777 00000 n
+0000023021 00000 n
+0000023265 00000 n
+0000023509 00000 n
+0000023753 00000 n
+0000023997 00000 n
+0000024241 00000 n
+0000024485 00000 n
+0000024729 00000 n
+0000024974 00000 n
+0000025219 00000 n
+0000025464 00000 n
+0000025709 00000 n
+0000025955 00000 n
+0000026201 00000 n
+0000026447 00000 n
+0000026693 00000 n
+0000026939 00000 n
+0000027185 00000 n
+0000027431 00000 n
+0000027677 00000 n
+0000027923 00000 n
+0000028169 00000 n
+0000028415 00000 n
+0000028661 00000 n
+0000028907 00000 n
+0000029153 00000 n
+0000029399 00000 n
+0000029645 00000 n
+0000029891 00000 n
+0000030137 00000 n
+0000030383 00000 n
+0000030629 00000 n
+0000030875 00000 n
+0000031121 00000 n
+0000031367 00000 n
+0000031613 00000 n
+0000031859 00000 n
+0000032105 00000 n
+0000032351 00000 n
+0000032597 00000 n
+0000032843 00000 n
+0000033089 00000 n
+0000033335 00000 n
+0000033581 00000 n
+0000033827 00000 n
+0000034073 00000 n
+0000034319 00000 n
+0000034565 00000 n
+0000034811 00000 n
+0000035057 00000 n
+0000035303 00000 n
+0000035549 00000 n
+0000035795 00000 n
+0000036041 00000 n
+0000036287 00000 n
+0000036533 00000 n
+0000036779 00000 n
+0000037008 00000 n
+0000038017 00000 n
+0000038275 00000 n
+0000038533 00000 n
+0000038777 00000 n
+0000038958 00000 n
+0000039299 00000 n
+0000039557 00000 n
+0000039815 00000 n
+0000040073 00000 n
+0000040315 00000 n
+0000040666 00000 n
+0000040924 00000 n
+0000041182 00000 n
+0000041424 00000 n
+0000041765 00000 n
+0000042023 00000 n
+0000042281 00000 n
+0000042539 00000 n
+0000042781 00000 n
+0000043132 00000 n
+0000043390 00000 n
+0000043648 00000 n
+0000043890 00000 n
+0000044231 00000 n
+0000044489 00000 n
+0000044747 00000 n
+0000044989 00000 n
+0000045330 00000 n
+0000045588 00000 n
+0000045846 00000 n
+0000046089 00000 n
+0000046430 00000 n
+0000046673 00000 n
+0000046980 00000 n
+0000047144 00000 n
+0000047413 00000 n
+0000047542 00000 n
+0000047758 00000 n
+0000047932 00000 n
+0000048106 00000 n
+0000048345 00000 n
+0000048519 00000 n
+0000048693 00000 n
+0000048943 00000 n
+0000049117 00000 n
+0000049291 00000 n
+0000049537 00000 n
+0000049711 00000 n
+0000049885 00000 n
+0000050128 00000 n
+0000050302 00000 n
+0000050476 00000 n
+0000050719 00000 n
+0000050893 00000 n
+0000051067 00000 n
+0000051303 00000 n
+0000051477 00000 n
+0000051651 00000 n
+0000051884 00000 n
+0000052058 00000 n
+0000052232 00000 n
+0000052471 00000 n
+0000052645 00000 n
+0000052819 00000 n
+0000053061 00000 n
+0000053235 00000 n
+0000053410 00000 n
+0000053669 00000 n
+0000053843 00000 n
+0000054018 00000 n
+0000054254 00000 n
+0000054428 00000 n
+0000054603 00000 n
+0000054848 00000 n
+0000055022 00000 n
+0000055197 00000 n
+0000055436 00000 n
+0000055610 00000 n
+0000055785 00000 n
+0000056023 00000 n
+0000056197 00000 n
+0000056372 00000 n
+0000056615 00000 n
+0000056789 00000 n
+0000056964 00000 n
+0000057208 00000 n
+0000057382 00000 n
+0000057557 00000 n
+0000057794 00000 n
+0000057968 00000 n
+0000058143 00000 n
+0000058379 00000 n
+0000058553 00000 n
+0000058728 00000 n
+0000058968 00000 n
+0000059142 00000 n
+0000059317 00000 n
+0000059587 00000 n
+0000059761 00000 n
+0000059936 00000 n
+0000060173 00000 n
+0000060347 00000 n
+0000060522 00000 n
+0000060766 00000 n
+0000060940 00000 n
+0000061115 00000 n
+0000061342 00000 n
+0000061516 00000 n
+0000061675 00000 n
+0000061884 00000 n
+0000062175 00000 n
+0000071209 00000 n
+0000080163 00000 n
+0000085253 00000 n
+0000089661 00000 n
+0000094494 00000 n
+0000099097 00000 n
+0000104110 00000 n
+0000108880 00000 n
+0000113294 00000 n
+0000114773 00000 n
+0000115010 00000 n
+0000115089 00000 n
+0000115168 00000 n
+0000115247 00000 n
+0000115326 00000 n
+0000115405 00000 n
+0000115484 00000 n
+0000115563 00000 n
+0000115642 00000 n
+0000115721 00000 n
+0000115801 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(Z\376\347\354SM\2651|\205\032\367\233\365\272\360) (Z\376\347\354SM\2651|\205\032\367\233\365\272\360)] 
+
+ /Info 185 0 R
+ /Root 184 0 R
+ /Size 283 >>
+startxref
+115850
+%%EOF
